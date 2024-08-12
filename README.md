@@ -1,1 +1,1 @@
-<img src="./assets/banner.svg">
+<img style="pointer-events: none;" src="./assets/banner.svg">
