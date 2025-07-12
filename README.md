@@ -32,7 +32,7 @@ _Open source, chaotic-neutral, and very much a work in progress_
 | **CI/CD Pipeline**       | `An “automated” process, updated by 10 people manually`         |
 | **GitHub Copilot**       | `The teammate who writes code while I’m still googling`         |
 | **Prompt Engineering**   | `Arguing with AI until it does what I meant, not what I said`   |
-| **Context**              | `The stuff you should include, but hope a one-liner will cover` |
+| **Context**              | `The part that matters, but you hope a one-liner will cover`    |
 | **Fine-Tuning**          | `Why use context when you can retrain the whole model`          |
 | **Agentic Coding**       | `Letting AI take the wheel while I get a coffee`                |
 | **Hallucination**        | `When AI makes things up! Basically like scrum dailies`         |
@@ -46,7 +46,7 @@ _No buzzwords were harmed in this table 🐸 Only my credibility_
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/timo-von-gruenewaldt)
 [![X](https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nullchimp)
 
-_(Expect a mix of tech, AI, sarcasm, and the existential emoji dump)_
+_Expect a mix of tech, AI, sarcasm, and the existential emoji dump_
 
 ---
 
