@@ -1,11 +1,12 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="Hi, I'm NULLchimp 👋">
-
 # Hi 👋 I'm NULLchimp
 
-## Solutions Engineer @ GitHub
+<img src="./assets/banner.png" alt="Hi, I'm NULLchimp 👋">
 
+---
+
+# Solutions Engineer @ GitHub
 ### Full-Time AI Sidekick 🤖 Bug Breeder 🐞 Part-Time Code Monkey 🐒
 
 `... demoing features I discovered 5 minutes ago`<br/>
@@ -14,7 +15,17 @@
 
 ---
 
-## Some of my favorite Buzzwords 🐝
+# Meet my Pet Project 🐶
+
+I've been tinkering with [AI Agent](https://github.com/nullchimp/ai-agent), a lightweight, experimental framework for building memory-augmented, tool-using AI agents.  
+
+Think of it as an AI sandbox: part `playground`, part `lab accident`, and `occasionally useful`
+
+_Open source, chaotic-neutral, and very much a work in progress_
+
+---
+
+# Some of my favorite Buzzwords 🐝
 | What I say 💬             | What I mean 🧠                                                |
 |--------------------------|---------------------------------------------------------------|
 | **Developer Experience** | `Building tools to build prompts that build tools`            |
@@ -22,17 +33,9 @@
 | **GitHub Copilot**       | `The teammate who writes code while I’m still googling`       |
 | **Agentic Coding**       | `Letting AI take the wheel while I get a coffee`              |
 
+---
 
-## Meet My Pet Project 🐶
-
-I've been tinkering with [AI-Agent](https://github.com/nullchimp/ai-agent), a lightweight, experimental framework for building memory-augmented, tool-using AI agents.  
-
-Think of it as an AI sandbox: part `playground`, part `lab accident`, and `occasionally useful`
-
-_Open source, chaotic-neutral, and very much a work in progress_
-
-
-## 🌍 Elsewhere on the Internet
+# Elsewhere on the Internet 🌍
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/timo-von-gruenewaldt)
 [![X](https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nullchimp)
@@ -42,6 +45,8 @@ _(Expect a mix of tech, AI, sarcasm, and the existential emoji dump)_
 ---
 
 _Thanks for scrolling this far 🚀 You now qualify for a free `console.log("hi")`_  
-_Star something, fork something, or just silently judge me. I accept all forms of engagement_
+_Star something ⭐ fork something 🍴 or just silently judge me 🧑‍⚖️_
+
+_I accept all forms of engagement_
 
 </div>
