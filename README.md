@@ -17,9 +17,9 @@
 
 # Meet my Pet Project 🐶
 
-I've been tinkering with [AI Agent](https://github.com/nullchimp/ai-agent), a lightweight, experimental framework for building memory-augmented, tool-using AI agents.  
+### I've been tinkering with [AI Agent](https://github.com/nullchimp/ai-agent) (think of it as an AI Sandbox)
 
-Think of it as an AI sandbox: part `playground`, part `lab accident`, and `occasionally useful`
+It's part `playground`, part `lab accident`, and `occasionally useful`
 
 _Open source, chaotic-neutral, and very much a work in progress_
 
@@ -28,7 +28,7 @@ _Open source, chaotic-neutral, and very much a work in progress_
 # Some of my favorite Buzzwords 🐝
 | What I say 💬             | What I mean 🧠                                                |
 |--------------------------|---------------------------------------------------------------|
-| **Developer Experience** | `Building tools to build prompts that build tools`            |
+| **Developer Experience** | `Building tools to build tools that build tools`              |
 | **Prompt Engineering**   | `Arguing with AI until it does what I meant, not what I said` |
 | **GitHub Copilot**       | `The teammate who writes code while I’m still googling`       |
 | **Agentic Coding**       | `Letting AI take the wheel while I get a coffee`              |
