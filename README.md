@@ -26,12 +26,18 @@ _Open source, chaotic-neutral, and very much a work in progress_
 ---
 
 # Some of my favorite Buzzwords 🐝
-| What I say 💬             | What I mean 🧠                                                |
-|--------------------------|---------------------------------------------------------------|
-| **Developer Experience** | `Building tools to build tools that build tools`              |
-| **Prompt Engineering**   | `Arguing with AI until it does what I meant, not what I said` |
-| **GitHub Copilot**       | `The teammate who writes code while I’m still googling`       |
-| **Agentic Coding**       | `Letting AI take the wheel while I get a coffee`              |
+| What I say 💬             | What I mean 🧠                                                  |
+|--------------------------|-----------------------------------------------------------------|
+| **Developer Experience** | `Building tools to build tools that build tools`                |
+| **CI/CD Pipeline**       | `An “automated” process, updated by 10 people manually`         |
+| **GitHub Copilot**       | `The teammate who writes code while I’m still googling`         |
+| **Prompt Engineering**   | `Arguing with AI until it does what I meant, not what I said`   |
+| **Context**              | `The stuff you should include, but hope a one-liner will cover` |
+| **Fine-Tuning**          | `Why use context when you can retrain the whole model`          |
+| **Agentic Coding**       | `Letting AI take the wheel while I get a coffee`                |
+| **Hallucination**        | `When AI makes things up! Basically like scrum dailies`         |
+
+_No buzzwords were harmed in this table 🐸 Only my credibility_
 
 ---
 
