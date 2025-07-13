@@ -38,7 +38,7 @@ _Open source, chaotic-neutral, and very much a work in progress_
 | **Agentic Coding**       | `Letting AI take the wheel while I get a coffee`                |
 | **Hallucination**        | `When AI makes things up... just like scrum dailies`            |
 
-_No buzzwords were harmed in this table 🐸 Only my credibility_
+_No buzzwords were harmed in this table_ 🐸 _Only my credibility_
 
 ---
 
@@ -51,11 +51,11 @@ _Expect a mix of tech, AI, sarcasm, and the existential emoji dump_
 
 ---
 
-_Thanks for scrolling this far 🚀 You now qualify for a free `console.log("hi")`_  
-_Star something ⭐ fork something 🍴 or just silently judge me 🧑‍⚖️_
+_Thanks for scrolling this far_ 🚀 _You now qualify for a free `console.log("hi")`_  
+_Star something_ ⭐ _fork something_ 🍴 _or just silently judge me_ 🧑‍⚖️
 
 <img src="./assets/booo.webp" alt="Booo...">
 
-_I accept all forms of engagement_
+### ✨ _I accept all forms of engagement_ ✨
 
 </div>
