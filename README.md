@@ -2,7 +2,7 @@
 
 # Hi 👋 I'm NULLchimp
 
-<img src="./assets/banner.png" alt="Hi, I'm NULLchimp 👋">
+<img src="./assets/banner.png" alt="I'm like a chimp with AI goggles">
 
 ---
 
@@ -19,6 +19,7 @@
 
 ### I've been tinkering with [AI Agent](https://github.com/nullchimp/ai-agent) (think of it as an AI Sandbox)
 
+An open-source toolbox for building AI agents that might take over the world:<br/>
 It's part `playground`, part `lab accident`, and `occasionally useful`
 
 _Open source, chaotic-neutral, and very much a work in progress_
@@ -29,13 +30,13 @@ _Open source, chaotic-neutral, and very much a work in progress_
 | What I say 💬             | What I mean 🧠                                                  |
 |--------------------------|-----------------------------------------------------------------|
 | **Developer Experience** | `Building tools to build tools that build tools`                |
-| **CI/CD Pipeline**       | `An “automated” process, updated by 10 people manually`         |
+| **CI/CD Pipeline**       | `An “automated” process, constantly updated manually`           |
 | **GitHub Copilot**       | `The teammate who writes code while I’m still googling`         |
 | **Prompt Engineering**   | `Arguing with AI until it does what I meant, not what I said`   |
-| **Context**              | `The part that matters, but you hope a one-liner will cover`    |
-| **Fine-Tuning**          | `Why use context when you can retrain the whole model`          |
+| **Context**              | `The part that matters, but I hope a one-liner will cover`      |
+| **Fine-Tuning**          | `Why use context when I can retrain the whole model?`           |
 | **Agentic Coding**       | `Letting AI take the wheel while I get a coffee`                |
-| **Hallucination**        | `When AI makes things up! Basically like scrum dailies`         |
+| **Hallucination**        | `When AI makes things up... just like scrum dailies`            |
 
 _No buzzwords were harmed in this table 🐸 Only my credibility_
 
@@ -52,6 +53,8 @@ _Expect a mix of tech, AI, sarcasm, and the existential emoji dump_
 
 _Thanks for scrolling this far 🚀 You now qualify for a free `console.log("hi")`_  
 _Star something ⭐ fork something 🍴 or just silently judge me 🧑‍⚖️_
+
+<img src="./assets/booo.webp" alt="Booo...">
 
 _I accept all forms of engagement_
 
