@@ -36,7 +36,7 @@ _Open source, chaotic-neutral, and very much a work in progress_
 | **Context**              | `The part that matters, but I hope a one-liner will cover`      |
 | **Fine-Tuning**          | `Why use context when I can retrain the whole model?`           |
 | **Agentic Coding**       | `Letting AI take the wheel while I get a coffee`                |
-| **Hallucination**        | `When AI makes things up... just like scrum dailies`            |
+| **Hallucination**        | `When AI makes things up... just like in scrum dailies`         |
 
 _No buzzwords were harmed in this table_ 🐸 _Only my credibility_
 
