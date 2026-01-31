@@ -15,17 +15,6 @@
 
 ---
 
-# Meet my Pet Project 🐶
-
-### I've been tinkering with [AI Agent](https://github.com/nullchimp/ai-agent) (think of it as an AI Sandbox)
-
-An open-source toolbox for building AI agents that might take over the world:<br/>
-It's part `playground`, part `lab accident`, and `occasionally useful`
-
-_Open source, chaotic-neutral, and very much a work in progress_
-
----
-
 # Some of my favorite Buzzwords 🐝
 | What I say 💬             | What I mean 🧠                                                  |
 |--------------------------|-----------------------------------------------------------------|
